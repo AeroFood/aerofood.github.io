@@ -36,9 +36,7 @@ a:hover { color: white; background: #990000; }
     padding: 0;
     height: 100%;
     width: 100%;
-} </style>
-      
-      <style>
+} 
 .column.left {
     border-radius: 19px;
     background: #b30000;
@@ -49,8 +47,7 @@ a:hover { color: white; background: #990000; }
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 15px; 
 }
-        </style>
-      <style>
+
         h1
         {
           font-family: Verdana, Geneva, sans-serif;
@@ -61,8 +58,7 @@ a:hover { color: white; background: #990000; }
           margin-left: 640px;
           margin-right: 640px;
           }
-      </style>
-      <style>
+
         div
         {
           margin-left: 350px;
@@ -90,8 +86,7 @@ a:hover { color: white; background: #990000; }
                 margin-left: 20px;
                 width: 60%
               }
-        </style>
-            <style>
+
         footer {
           border-top: 1px solid black;
           padding: 10px 20px;
@@ -100,6 +95,5 @@ a:hover { color: white; background: #990000; }
           margin-left: 250px;
           margin-right: 250px; 
         }
-        
-        </style>
+
   
