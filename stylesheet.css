@@ -1,4 +1,4 @@
-      ul {
+         ul {
       list-style-type: none;
    font-family: "Arial Black", Gadget, sans-serif;
     font-size: 16px;
@@ -6,7 +6,7 @@
     margin-right: 40px;
     padding: 0;
     overflow: hidden;
-    background-color: #d2a679;
+    background-color: #b30000;
 }
 li {
     float: left;
@@ -27,7 +27,7 @@ li a {
   -webkit-transition:color .2s ease-out, background 0.6s ease-in;
   transition:color .2s ease-out, background 0.6s ease-in;
 }
-a:hover { color: white; background: #cc9966; }
+a:hover { color: white; background: #990000; }
   
   body{
     background: url("http://www.wildtextures.com/wp-content/uploads/2011/11/wildtextures-wooden-chopping-board-texture.jpg") no-repeat top center fixed;
@@ -36,14 +36,70 @@ a:hover { color: white; background: #cc9966; }
     padding: 0;
     height: 100%;
     width: 100%;
-} 
-
-#rcorners1 {
+} </style>
+      
+      <style>
+.column.left {
     border-radius: 19px;
-    background: #d2a679;
+    background: #b30000;
     padding: 20px; 
     width: 200px;
     height: 150px;
     margin-left: 45px;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 15px; 
 }
+        </style>
+      <style>
+        h1
+        {
+          font-family: Verdana, Geneva, sans-serif;
+          font-size: 60px;
+          text-align: center;
+          background: transparent;
+          padding: 10px;
+          margin-left: 640px;
+          margin-right: 640px;
+          }
+      </style>
+      <style>
+        div
+        {
+          margin-left: 350px;
+          margin-right: 75px;
+          font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+          font-size: 20px;
+          
+        }
+        </style>
+            <style>
+        .column {
+          float: left;
+          padding: 8px;
+          font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+          font-size: 20px;
+        }
+        
+        .column.middle {
+          margin-right: 200px;
+          width: 50%;
+        }
+         
+            
+              .column.right {
+                margin-left: 20px;
+                width: 60%
+              }
+        </style>
+            <style>
+        footer {
+          border-top: 1px solid black;
+          padding: 10px 20px;
+          text-align: center;
+          font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+          margin-left: 250px;
+          margin-right: 250px; 
+        }
+        
+        </style>
+  
