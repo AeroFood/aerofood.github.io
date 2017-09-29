@@ -83,8 +83,10 @@ a:hover { color: white; background: #990000; }
          
             
               .column.right {
-                margin-left: 20px;
-                width: 60%
+               mrgin-left: 20px;
+               width: 50%
+               font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+               font-size: 20px;
               }
 
         footer {
