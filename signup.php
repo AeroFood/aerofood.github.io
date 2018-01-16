@@ -1,4 +1,8 @@
 <?php
+$_SESSION.START = ['username, email, password']
+	username = $MEH
+
+
 
 ?>
 <!DOCTYPE html>
