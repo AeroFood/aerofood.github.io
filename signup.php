@@ -1,7 +1,5 @@
 <?php
-
 ?>
-<!DOCTYPE html>
 <html>
 <head>
 	<title>AeroFood - Sign Up</title>
