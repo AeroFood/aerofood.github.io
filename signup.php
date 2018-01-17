@@ -1,5 +1,4 @@
-<?php
-?>
+
 <html>
 <head>
 	<title>AeroFood - Sign Up</title>
@@ -7,12 +6,7 @@
 </head>
 <body>
 	<main>
-			<div>
-	<form>
-<input type="text" name="username">
-<input type="text" name="email">
-<input type="password" name="password">
-</div>
+
 </form>
 </main>
 
