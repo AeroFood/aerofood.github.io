@@ -5,7 +5,6 @@
 	<link rel="stylesheet" type="text/css" href="aerofood/stylesheet.css">
 </head>
 <body>
-	<main>
 
 </form>
 </main>
