@@ -1,4 +1,3 @@
-
 <html>
 <head>
 	<title>AeroFood - Sign Up</title>
